@@ -6,9 +6,9 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  이것은 테스트~ 처음 만들어보는 깃허브 블로그용 - 개발 지식 작성해보기
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  테스트로 작성하는 깃허브 주소 <a href="https://github.com/leeguembi">GitHub</a>.
 </p>
